@@ -1,4 +1,4 @@
-avatar: \source\assets\オリジナル あ゛あ゛あ゛あ゛あ゛あ゛ - ケースワベ【K-SUWABE】的动图 - pixiv.jpg#https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png # 网站 Logo
+avatar: https://raw.githubusercontent.com/K-Viior/blog-image/main/img/blog-%E7%94%A8%E6%88%B7%E5%A4%B4%E5%83%8F.jpg  #https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
   width: 1440
