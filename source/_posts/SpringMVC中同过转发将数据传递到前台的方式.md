@@ -1,3 +1,11 @@
+---
+title: SpringMVC中同过转发将数据传递到前台的方式
+date: 2023-02-14 16:40:54
+tags:
+- Spring
+categories:
+- java面试
+---
 #### 1、直接使用request域传递数据
 `request.setAttribuate("name",value);`
 #### 2、使用model进行传值，底层会将数据存放到request域进行数据的传递

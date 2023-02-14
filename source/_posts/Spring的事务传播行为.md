@@ -1,3 +1,11 @@
+---
+title: Spring的事务传播行为
+date: 2023-02-14 16:28:48
+tags:
+- Spring
+categories:
+- java面试
+---
 Spring的事务传播行为说的是，当多个事务同时存在的时候，Spring如何处理事务的行为
 在Spring中，定义了7中事务传播行为
 #### 1、require 

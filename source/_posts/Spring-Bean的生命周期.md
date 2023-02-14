@@ -1,9 +1,11 @@
+---
 title: Spring Bean的生命周期
-date: 2023-02-14
-categories:
+date: 2023-02-14 16:27:09
+tags: 
 - Spring
+categories:
 - java面试
-***
+---
 #### 1、创建前准备阶段
 这段阶段的主要作用是，在Bean在开始加载之前，通过上下文和相关配置解析并查找bean的相关扩展实现
 #### 2、创建实例阶段
@@ -18,4 +20,3 @@ categories:
 
 
 ### 在实例化和初始化前后都可以放置beanpostProcessor,对bean做各式各样的修改
-

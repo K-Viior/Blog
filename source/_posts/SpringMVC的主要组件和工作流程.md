@@ -1,3 +1,11 @@
+---
+title: SpringMVC的主要组件和工作流程
+date: 2023-02-14 16:32:51
+tags:
+- Spring
+categories:
+- java面试
+---
 #### 前端控制器（DispatcherServlet）
 接受请求，相应结果，相当于转发器，有了DispatcherServlet 就减少了其它组件之间的耦合度。
 #### 视图（View）
