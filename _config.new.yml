@@ -2,7 +2,7 @@ avatar: https://raw.githubusercontent.com/K-Viior/blog-image/main/img/blog-%E7%9
 background: # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
   width: 1440
-  height: 480
+  height: 240
 favicon:
   href: /favicon.ico # 网站图标
   type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
