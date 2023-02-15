@@ -25,8 +25,8 @@ tags:
 - 索引并非越多越好，对于增、删、改较为频繁的表慎重简历索引，索引过多还会降低索引维护的效率
 - 使用短索引，提高索引访问时的IO效率
 - 建立复合索引时，要遵循最左前缀原则
-  - 复合索引的命名规则：`index_表名_列名一_列名二_列名三`
-  - 比如`create index idx_student_name_age_addr on tb_student(name,age,address)`
+  复合索引的命名规则：`index_表名_列名一_列名二_列名三`
+  比如`create index idx_student_name_age_addr on tb_student(name,age,address)`
 ### 2、避免索引失效
 - 在查询时使用了复合索引，要遵循最左前缀原则，查询时从索引的最左列开始，且不能跳过中间的列
 - 模糊查询使用like字句时，%不能够放在最前面，如‘%aaa’
@@ -42,6 +42,6 @@ tags:
 - 优化insert语句，批量插入语句比单列插入数据效率高
 - 再使用order by语句时，不要使用select * ,select 后面要跟有索引的字段。如果select后面要跟多个字段，在不影响业务的前提下，尽量同时用升序或同时用降序
 - 使用group by对数据进行分类时，MySQL会默认进行排序，但是如果排序不是我们业务所需的，额外的排序会降低执行效率，可以使用`order by null`禁用排序
-  - 如：`select age count(*) from emp group by age order by null`
+   如：`select age count(*) from emp group by age order by null`
 - 尽量避免子查询，可以将子查询优化为join多表连接查询
 

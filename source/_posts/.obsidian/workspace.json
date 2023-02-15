@@ -111,12 +111,12 @@
               "type": "backlink",
               "state": {
                 "file": "MySQL性能优化.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96929b4da77bf8c5",
+  "active": "f547ef53fe96f2a0",
   "lastOpenFiles": [
     "Spring-Bean的生命周期.md",
     "MySQL性能优化.md",
