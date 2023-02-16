@@ -2,6 +2,7 @@
 title: MySQL性能优化
 date: 2023-02-15 14:07:13
 tags:
+- MySQL
 ---
 ![image.png](https://cdn.staticaly.com/gh/K-Viior/blog-image@master/img/20230215142245.png)
 ## 硬件和操作系统层面的优化

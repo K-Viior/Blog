@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL性能优化.md",
+                "file": "redis的单线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL性能优化.md",
+                "file": "redis的单线程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL性能优化.md",
+                "file": "redis的单线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL性能优化.md"
+                "file": "redis的单线程.md"
               }
             }
           }
@@ -171,17 +171,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f547ef53fe96f2a0",
+  "active": "96929b4da77bf8c5",
   "lastOpenFiles": [
-    "Spring-Bean的生命周期.md",
     "MySQL性能优化.md",
     "Spring的事务传播行为.md",
+    "redis的单线程.md",
+    "Spring-Bean的生命周期.md",
     "Spring事务的隔离级别.md",
     "SpringBoot的优点.md",
     "SpringMVC中同过转发将数据传递到前台的方式.md",
     "markdown.md",
     "SpringMVC统一异常处理的思想和实现方式.md",
-    "SpringMVC的主要组件和工作流程.md",
-    "categories.md"
+    "SpringMVC的主要组件和工作流程.md"
   ]
 }
