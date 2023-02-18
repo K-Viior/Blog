@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis的单线程.md",
+                "file": "SpringBoot自动装配的原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis的单线程.md",
+                "file": "SpringBoot自动装配的原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis的单线程.md",
+                "file": "SpringBoot自动装配的原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis的单线程.md"
+                "file": "SpringBoot自动装配的原理.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "96929b4da77bf8c5",
   "lastOpenFiles": [
-    "MySQL性能优化.md",
-    "Spring的事务传播行为.md",
-    "redis的单线程.md",
     "Spring-Bean的生命周期.md",
-    "Spring事务的隔离级别.md",
-    "SpringBoot的优点.md",
-    "SpringMVC中同过转发将数据传递到前台的方式.md",
-    "markdown.md",
-    "SpringMVC统一异常处理的思想和实现方式.md",
-    "SpringMVC的主要组件和工作流程.md"
+    "SpringBoot自动装配的原理.md",
+    "code-highlight.md",
+    "excerpts.md",
+    "gallery-post.md",
+    "hello-world.md",
+    "images.md",
+    "link-post.md",
+    "link-post-without-title.md",
+    "tag-plugins.md"
   ]
 }
