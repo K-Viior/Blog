@@ -2,6 +2,9 @@
 title: SpringBoot自动装配的原理
 date: 2023-02-18 09:52:11
 tags:
+- Spring
+categories:
+- java面试
 ---
 Spring boot 项目中的引导类上有个一注解@SpringBootApplication，这个注解是对三个注解进行了封装
 <!--more-->
