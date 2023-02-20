@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot自动装配的原理.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot自动装配的原理.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot自动装配的原理.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot自动装配的原理.md"
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "96929b4da77bf8c5",
   "lastOpenFiles": [
-    "Spring-Bean的生命周期.md",
     "SpringBoot自动装配的原理.md",
+    "Spring-Bean的生命周期.md",
     "code-highlight.md",
     "excerpts.md",
     "gallery-post.md",
