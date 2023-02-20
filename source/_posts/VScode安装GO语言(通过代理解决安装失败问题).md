@@ -1,7 +1,7 @@
 ---
 title: VScode安装GO语言
 date: 2023-02-20 15:34:35
-categories：
+categories:
 - Golang
 ---
 ## VScode安装GO插件

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang基础语法.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang基础语法.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang基础语法.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang基础语法.md"
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md"
               }
             }
           }
@@ -172,10 +172,10 @@
   },
   "active": "d0265f72c0f255a6",
   "lastOpenFiles": [
-    "Spring的事务传播行为.md",
-    "VScode安装GO语言(通过代理解决安装失败问题).md",
-    "SpringBoot的优点.md",
     "Golang基础语法.md",
+    "VScode安装GO语言(通过代理解决安装失败问题).md",
+    "Spring的事务传播行为.md",
+    "SpringBoot的优点.md",
     "hello-world.md",
     "link-post.md",
     "images.md",
