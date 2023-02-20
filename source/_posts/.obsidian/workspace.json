@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring的事务传播行为.md",
+                "file": "Golang基础语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang基础语法.md",
+                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,17 +170,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96929b4da77bf8c5",
+  "active": "d0265f72c0f255a6",
   "lastOpenFiles": [
+    "Spring的事务传播行为.md",
     "VScode安装GO语言(通过代理解决安装失败问题).md",
+    "SpringBoot的优点.md",
     "Golang基础语法.md",
     "hello-world.md",
     "link-post.md",
     "images.md",
     "SpringMVC的主要组件和工作流程.md",
-    "SpringBoot的优点.md",
     "SpringBoot自动装配的原理.md",
-    "Spring-Bean的生命周期.md",
-    "code-highlight.md"
+    "Spring-Bean的生命周期.md"
   ]
 }
