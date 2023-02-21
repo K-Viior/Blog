@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
+                "file": "Golang基础语法——条件语句和循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
+                "file": "Golang基础语法——条件语句和循环.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
+                "file": "Golang基础语法——条件语句和循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VScode安装GO语言(通过代理解决安装失败问题).md"
+                "file": "Golang基础语法——条件语句和循环.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "d0265f72c0f255a6",
   "lastOpenFiles": [
-    "Golang基础语法.md",
+    "Golang基础语法——内建变量.md",
+    "Golang基础语法——条件语句和循环.md",
+    "Golang基础语法——常量和枚举.md",
+    "Golang基础语法——变量.md",
     "VScode安装GO语言(通过代理解决安装失败问题).md",
     "Spring的事务传播行为.md",
     "SpringBoot的优点.md",
     "hello-world.md",
     "link-post.md",
-    "images.md",
-    "SpringMVC的主要组件和工作流程.md",
-    "SpringBoot自动装配的原理.md",
-    "Spring-Bean的生命周期.md"
+    "images.md"
   ]
 }

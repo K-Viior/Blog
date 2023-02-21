@@ -1,5 +1,5 @@
 ---
-title: Golang基础语法
+title: Golang基础语法——变量
 date: 2023-02-20 20:34:32
 categories:
 - Golang
@@ -27,7 +27,7 @@ categories:
 **使用==var==关键字定义变量**
 
 Go语言的变量若没有给定初始值，则会自带一个初始值
-```Golang
+```Go
 func variableZeroValue() {
 	var a int  //go语言的变量在定义后会有一个初始值，int为0
 	var s string   //string为空字符串
@@ -37,7 +37,7 @@ func variableZeroValue() {
 Go语言的变量给定初始值，可以使用`:=`在定义时直接赋值
 同时Go语言可以自动判断声明值的类型，所以可以不加类型
 并且Go语言可以同时声明多个不同类型的变量
-```Golang
+```Go
 func variableInitialValue() {
 var a int = 1
 var s int = "abc"
@@ -51,7 +51,7 @@ d = 5
 }
 ```
 **注意：在函数内定义变量可以使用`:=`，但是在函数外定义变量需要使用`var 变量名 变量类型`的方式，同时在函数外定义的变量作用域在包内，没有全局变量的概念**
-```Golang
+```Go
 package main
 //可以一行一行定义，也可以放到括号内一起定义，简化书写
 var (
@@ -62,7 +62,7 @@ cc = false
 ```
 
 使用下划线`_`可以将变量废弃
-```Golang
+```Go
 func main() {
 
 _, value := 7, 5 //实际上7的值被废弃了，变量_不具备读特性
