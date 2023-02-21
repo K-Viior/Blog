@@ -166,6 +166,11 @@ fmt.Println(apply(func(a int, b int) int { //这里是使用类似java内部类�
 
 ## 值传递
 值传递是指在调用函数时将实际参数复制一份传递到函数中，这样在函数中如果对参数进行修改，将不会影响到实际参数。
+但是如果参数是自定义类型，或者参数非常大，就不会将整个参数进行拷贝，而是拷贝参数指向内容的指针
+
+![image.png](https://cdn.staticaly.com/gh/K-Viior/blog-image@master/img/20230221211525.png)
+
+
 默认情况下，Go 语言使用的是值传递，即在调用过程中不会影响到实际参数。
 
 ```GO
@@ -215,6 +220,7 @@ fmt.Printf("交换后 b 的值 : %d\n", b )
 
 ## 指针传递
 
+Go语言实际只有值传递，引用传递实际是指针传递
 我们都知道，变量是一种使用方便的占位符，用于引用计算机内存地址。
 Go 语言的取地址符是 &，放到一个变量前使用就会返回相应变量的内存地址。
 ```Go
@@ -230,6 +236,7 @@ func main () {
 指针：
 ![image.png](https://cdn.staticaly.com/gh/K-Viior/blog-image@master/img/20230221210017.png)
 
+![image.png](https://cdn.staticaly.com/gh/K-Viior/blog-image@master/img/20230221211217.png)
 
 Go语言使用`*变量类型`定义指针,Go语言的指针不能运算
 
