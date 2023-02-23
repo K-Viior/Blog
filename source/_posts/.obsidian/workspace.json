@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang基础语法——map.md",
+                "file": "Golang基础语法——面向对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang基础语法——map.md",
+                "file": "Golang基础语法——面向对象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang基础语法——map.md",
+                "file": "Golang基础语法——面向对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang基础语法——map.md"
+                "file": "Golang基础语法——面向对象.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   "active": "dc54306be7507e33",
   "lastOpenFiles": [
     "VScode安装GO语言(通过代理解决安装失败问题).md",
+    "Golang基础语法——面向对象.md",
     "Golang基础语法——map.md",
     "Golang基础语法——slice（切片）.md",
     "Golang基础语法——条件语句和循环.md",
@@ -168,7 +169,6 @@
     "Spring-Bean的生命周期.md",
     "[ 0 0 0 0 ] [ 0 0 0 0 ] [ 0 0 0 0 ].md",
     "Golang基础语法——内建变量.md",
-    "Golang基础语法——变量.md",
-    "Golang基础语法——函数和指针.md"
+    "Golang基础语法——变量.md"
   ]
 }
