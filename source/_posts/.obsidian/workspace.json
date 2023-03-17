@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a259712cba71a5ba",
+        "id": "12933f1274017345",
         "type": "tabs",
         "children": [
           {
-            "id": "dc54306be7507e33",
+            "id": "ed3b0fa5359ae664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "占位符含义.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96929b4da77bf8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VScode安装GO语言(通过代理解决安装失败问题).md",
+                "file": "Go语言的并发编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "占位符含义.md",
+                "file": "Go语言的并发编程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "占位符含义.md",
+                "file": "Go语言的并发编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "占位符含义.md"
+                "file": "Go语言的并发编程.md"
               }
             }
           }
@@ -158,23 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc54306be7507e33",
+  "active": "ed3b0fa5359ae664",
   "lastOpenFiles": [
+    "Go语言的并发编程.md",
+    "Golang基础语法——变量.md",
+    "Spring-Bean的生命周期.md",
     "Golang基础语法——面向对象.md",
-    "占位符含义.md",
-    "Golang基础语法——内建变量.md",
+    "Golang基础语法——map.md",
+    "Golang基础语法——函数和指针.md",
+    "Golang基础语法——常量和枚举.md",
+    "MySQL性能优化.md",
     "Golang基础语法——数组.md",
     "Golang基础语法——条件语句和循环.md",
-    "Golang基础语法——map.md",
+    "Golang基础语法——内建变量.md",
     "Golang基础语法——slice（切片）.md",
-    "Golang基础语法——常量和枚举.md",
-    "Golang基础语法——函数和指针.md",
     "Spring的事务传播行为.md",
-    "Spring-Bean的生命周期.md",
+    "占位符含义.md",
+    "SpringBoot的优点.md",
+    "Spring事务的隔离级别.md",
+    "2023-03-12.md",
+    "未命名.canvas",
     "redis的单线程.md",
-    "MySQL性能优化.md",
     "VScode安装GO语言(通过代理解决安装失败问题).md",
-    "[ 0 0 0 0 ] [ 0 0 0 0 ] [ 0 0 0 0 ].md",
-    "Golang基础语法——变量.md"
+    "[ 0 0 0 0 ] [ 0 0 0 0 ] [ 0 0 0 0 ].md"
   ]
 }
